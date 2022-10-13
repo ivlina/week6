@@ -1,0 +1,27 @@
+body {
+    display: grid;
+}
+
+header {
+    background-color: gray;
+}
+
+main {
+    background-color: lightgoldenrodyellow;
+}
+
+main section {
+    background-color: lightsalmon;
+}
+
+aside {
+    background-color: lightgreen;
+}
+
+footer {
+    background-color: gray;
+}
+
+footer section {
+    background-color: lightgrey;
+}
